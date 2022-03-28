@@ -1,4 +1,4 @@
-### Hi there 👋 . I'm Gniiid ✨. 
+### Hi there 👋 . I'm Gn1d ✨. 
 
 ### GitHub stats:
 
