@@ -14,7 +14,7 @@
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" /> -->
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+<!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" /> -->
 <!-- <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" /> -->
 <!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" /> -->
 <!-- <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" /> -->
@@ -23,8 +23,7 @@
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/vim/vim.png" />
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png" /> -->
 
- -->
  
 <p align="left">
-  <samp>Hi, I’m <a href="https://github.com/keyding">Gn1d</a>. I'm interested in Web Development. </samp>
+  <samp>Hi, I’m <a href="https://github.com/keyding">Gn1d ✨</a>. I'm interested in Web Development. </samp>
 </p>
